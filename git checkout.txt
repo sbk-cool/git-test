@@ -1,0 +1,6 @@
+1st Update.
+git checkout removes all the changes done to a file after the last commit.
+
+(Write below this the stuff that should not be committed)
+#########################################################
+

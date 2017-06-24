@@ -1,0 +1,2 @@
+1st Update.
+hello. this will be an example of how to remove a file that has been staged.

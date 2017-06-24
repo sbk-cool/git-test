@@ -1,0 +1,3 @@
+1st Update.
+checking how git diff --staged works.
+so first track this file and check the status. then execute the command git diff --staged.
